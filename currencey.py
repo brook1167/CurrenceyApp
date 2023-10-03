@@ -10,7 +10,7 @@ def convertor():
     toInput = str(input('Enter your to input '))
     amount = int(input('Enter amount '))
 
-    url = f"https://v6.exchangerate-api.com/v6/901106dca3165dc1c69db84b/pair/{fromInput}/{toInput}/{amount}"
+    url = f"your_api_website_with_api_key"{fromInput}/{toInput}/{amount}"
     try:
       response = requests.get(url)
       response.raise_for_status()
