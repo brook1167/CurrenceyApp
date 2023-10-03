@@ -2,8 +2,8 @@
 
 Currency App
 
-used to check the latest currency exchange from the exchange API
+used to check the latest currency exchange from the exchange API.
 
-uses the Python http request module
+uses the Python http request module.
 
-feel free to use in your project
+feel free to use in your project.
